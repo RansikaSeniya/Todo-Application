@@ -1,4 +1,17 @@
-.pointer{
+.edit{
+    cursor: pointer;
+    color: green;
+}
+
+.edit:hover{
+    color: rgb(124, 237, 12);
+}
+
+.delete{
     cursor: pointer;
     color: red;
 }
+
+.delete:hover{
+    color: rgb(238, 169, 9);
+}   
